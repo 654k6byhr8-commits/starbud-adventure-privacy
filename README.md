@@ -2,10 +2,10 @@
 
 This repository publishes the public privacy policy for Starbud Adventure / 星芽冒險團.
 
-Expected GitHub Pages URL:
+Live GitHub Pages URL:
 
 ```text
-https://<github-user>.github.io/starbud-adventure-privacy/privacy-policy/
+https://654k6byhr8-commits.github.io/starbud-adventure-privacy/privacy-policy/
 ```
 
 ## Contents
