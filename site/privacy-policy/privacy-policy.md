@@ -2,14 +2,14 @@
 
 Effective date: 2026-07-05
 
-This policy is prepared for the Starbud Adventure / 星芽冒險團 closed-test and store-submission workflow. Replace the TODO contact fields with the official developer identity and support email before publishing.
+This policy is prepared for the Starbud Adventure / 星芽冒險團 closed-test and store-submission workflow. During TestFlight or closed beta testing, support and privacy requests are handled through platform beta feedback and the public support page.
 
 ## 1. App And Developer
 
 Starbud Adventure / 星芽冒險團 is a mobile RPG game prototype and planned closed-test app.
 
-- Developer name: TODO official developer or company name.
-- Privacy contact: TODO support email.
+- Developer name: Starbud Adventure team (final legal name pending).
+- Privacy contact: https://654k6byhr8-commits.github.io/starbud-adventure-privacy/support/
 
 ## 2. Data We May Collect
 
@@ -55,4 +55,4 @@ We may update this policy as the app changes. The effective date at the top of t
 
 ## 10. Contact
 
-Privacy questions and deletion requests: TODO support email.
+Privacy questions and deletion requests during beta testing can be sent through TestFlight feedback or the public support page: https://654k6byhr8-commits.github.io/starbud-adventure-privacy/support/

@@ -1,10 +1,10 @@
 # Privacy Policy Public URL Deployment
 
-Status: page is ready, public hosting is not connected.
+Status: GitHub Pages is connected and the public privacy/support pages are live.
 
 ## Required Result
 
-The final URL must be an active, publicly accessible and non-geofenced URL.
+The final URLs must be active, publicly accessible, and non-geofenced.
 
 The final URL must be:
 
@@ -20,6 +20,7 @@ The final URL must be:
 ```text
 site/privacy-policy/index.html
 site/privacy-policy/privacy-policy.md
+site/support/index.html
 ```
 
 ## Selected Hosting Option: GitHub Pages
@@ -38,13 +39,14 @@ Prepared Pages source folder:
 site/
 ```
 
-Expected URL shape:
+Live URLs:
 
 ```text
-https://<github-user>.github.io/<repo>/privacy-policy/
+https://654k6byhr8-commits.github.io/starbud-adventure-privacy/privacy-policy/
+https://654k6byhr8-commits.github.io/starbud-adventure-privacy/support/
 ```
 
-Required GitHub setup:
+Completed GitHub setup:
 
 1. Create or connect a GitHub repository.
 2. Push this project to the `main` branch.
@@ -52,7 +54,7 @@ Required GitHub setup:
 4. Set Build and deployment source to GitHub Actions.
 5. Run the `Deploy privacy policy to GitHub Pages` workflow.
 6. Open the deployed `/privacy-policy/` URL and confirm it loads without login.
-7. Replace `TODO public URL` in project files with the live URL.
+7. Project files have been updated with the live URLs.
 
 ## Other Hosting Options
 
@@ -81,16 +83,11 @@ Use a static host such as Cloudflare Pages, Netlify, Vercel, Firebase Hosting, o
 
 ## Current Blocker
 
-This workspace has no configured git remote and no GitHub CLI, so Codex cannot publish the page without one of these:
-
-- A target hosting provider.
-- A GitHub repository remote with Pages enabled.
-- A domain/hosting account where this file should be uploaded.
-- Permission to install/use a deployment CLI and complete login/authorization.
+No hosting blocker remains for the privacy or support URL. Production release still needs final developer identity and official support contact details.
 
 ## After Publishing
 
-Replace `TODO public URL` with the live URL in:
+Keep these files aligned with the live URLs:
 
 - `PRIVACY_POLICY.md`
 - `closed-test/apple-app-store-connect-metadata.md`
